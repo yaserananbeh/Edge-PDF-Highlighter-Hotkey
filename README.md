@@ -1,0 +1,1 @@
+# Edge-PDF-Highlighter-Hotkey
